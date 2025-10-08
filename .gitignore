@@ -209,3 +209,6 @@ __marimo__/
 # Keep package folder but ignore its contents
 package/*
 !package/.gitkeep
+
+# Ignore Lambda deployment zips
+scripts/lambda/*.zip
