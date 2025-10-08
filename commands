@@ -1,2 +1,4 @@
+# upload the glue job scripts in 's3-bucket/glue_script' folder
+
 aws s3 cp scripts/glue/glue_clean_transform.py s3://dp-datawarehouse-solution-1/glue_scripts/
 aws s3 cp scripts/glue/glue_split_fact_dim.py s3://dp-datawarehouse-solution-1/glue_scripts/
