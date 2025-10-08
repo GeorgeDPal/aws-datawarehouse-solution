@@ -1,0 +1,12 @@
+pandas 
+pyspark
+
+kagglehub
+
+boto3
+
+ipykernel
+
+logging
+
+awswrangler
